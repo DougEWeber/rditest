@@ -1,0 +1,4 @@
+000100210724 testit:     pgm
+000101210724             SNDPGMMSG  MSG('Testing')
+000102210724             endpgm
+000103210724
